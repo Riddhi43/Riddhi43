@@ -5,7 +5,7 @@
   - JavaScript Algorithms and Data Structures on [freeCodeCamp](https://www.freecodecamp.org/RiddhiTailor)
   - React Basics on [Coursera](https://www.coursera.org/user/e1ce308dfe69829af44bb7640da6c124)
 - 📬 Reach me at [rhmistry43@gmail.com](mailto:rhmistry43@gmail.com)
-- 📝 Check out my [CV](https://drive.google.com/file/d/1AKFV3lPbH9D-CrEGFFkL-Oihy5Zc_lbS/view?usp=sharing) to discover more about my journey! 🚀
+- 📝 Check out my [CV]((https://drive.google.com/drive/my-drive) to discover more about my journey! 🚀
 - 💡 Passionate about helping people to make their lives easier.
 
 ## Connect with Me
